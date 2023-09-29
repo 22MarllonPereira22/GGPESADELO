@@ -7,7 +7,7 @@ background-position: center center;
 color: ;
 font-family:Quicksand
 text-aling: center;
-margin: 0;
+margin: 50;
 padding: 0;
 }
 
@@ -26,4 +26,29 @@ p{
 font-size: 20px;
 max-width: 600px;
 margin: 20px;
+}
+
+.button-container {
+  text-aling: center; 
+margin-top: 20;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f00;
+  color: Black;
+  text-decoration: nome;
+  font-weight: bold
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: block;
+}
+
+.button:houver {
+  background-color: #555;
+
 }
