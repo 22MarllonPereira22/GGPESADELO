@@ -1,0 +1,33 @@
+<!DOCTYPE html> Serve para dizer qual versão do html ele vai usar
+
+<html lang="pt-br"> para deixar o site em portegues
+
+<head> para criar a parte de do site (cabeçario) 
+
+<meta charset="UTF-8"> qual o tipo de caracteres ele ira usar
+
+<title> titulo da aba
+
+<link rel="stylesheet" href="style.cs"> serve para ligar o .css ao html
+
+<tyle> estilo do site 
+
+<body> o meio do site
+
+<div id="content"> divisão de conteudo
+
+<h1> titulo do site 
+
+<p1> primeiro paragrafo
+<p2> segundo paragrafo
+<p3> terceiro paragrafo
+
+<div class="button-container"> divisão de botão 
+
+<a href=https://immub.org/ class="button">Site das melhores músicas brasileiras</a> e  <a href=https://mpb.com.br/indice/a/ class="button">Site das melhores músicas brasileiras</a> referencia para os botões
+
+</div> cancelar divisão
+
+</body> fechar corpo
+
+</html> fechar html
